@@ -5,7 +5,7 @@ Este repositório contém um programa em Python desenvolvido como parte das ativ
 ## Descrição
 O programa tem como finalidade cadastrar livros, listar todos os livros cadastrados ou buscar os livros pelo título, também contem um grafico com a quantidade de livros por genero
 
-### Ele foi escrito utilizando os conceitos da linguagem C, como:
+### Ele foi escrito utilizando os conceitos da linguagem Python, como:
 - Declaração de variáveis
 - Operadores e expressões
 - Entrada e saída de dados
