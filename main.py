@@ -45,7 +45,7 @@ while(True):
     #Agora o usuario decide se quer listar os livros
     listar = input("Deseja listar os livros? (1/0)")
     #Caso o usuario queira eu chamo a função todos_livros para listar os livros
-    if listar == "S":
+    if listar == "1":
         todos_livros()
     #Agora pergunto o usuario se ele deseja continuar caso queira todo o laço se repetira caso não queira será mostrado o grafico em barra ao usuario
     continua = input("Deseja continuar a cadastrar, listar ou buscar? (1/0)")
